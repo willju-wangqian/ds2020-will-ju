@@ -10,3 +10,6 @@ This is my first github repo for ds2020
 
 - this is a change from the cloud
 - I'm on the Github repo right now
+
+- [ ] checkbox
+- [ ] todo number 1
